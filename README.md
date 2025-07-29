@@ -25,10 +25,17 @@ This project predicts whether a customer is likely to churn (leave a service) ba
 | **F1 Score**  | 93–95% |
 
 ---
+## 🎯 Output
+
+![Output1](https://github.com/user-attachments/assets/fd43d89c-a707-46a8-9238-526b79a48c09)
+
+![Output2](https://github.com/user-attachments/assets/85c27916-0d0b-4f03-ad2c-8710509be03b)
+
+---
 
 ## 💡 Features
 
-- 📁 Load saved model from `.pkl` or `.sav`  
+- 📁 Load saved model from `.sav`  
 - 📉 Displays churn prediction for user inputs  
 - 📊 Classification report & confusion matrix  
 - 🖼️ Clean and minimalist UI with Streamlit  
