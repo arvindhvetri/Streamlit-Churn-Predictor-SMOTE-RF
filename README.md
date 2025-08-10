@@ -65,5 +65,5 @@ This project predicts whether a customer is likely to churn (leave a service) ba
 
 Created with ❤️ by Arvindh Kumar
 
-- 📧 Email: arvindhvetri@gmail.com.com
+- 📧 Email: arvindhvetri@gmail.com
 
